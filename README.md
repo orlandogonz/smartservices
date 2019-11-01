@@ -22,7 +22,7 @@ Consiste en:
 
 3. Precio:
 
-4. Cantidad
+4. Cantidad:
 
 Luego de almacenar los productos, podrá visualizarlos en una tabla, donde cada producto es guardado en la base de datos MySQL.
 
