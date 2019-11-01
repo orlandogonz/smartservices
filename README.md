@@ -29,7 +29,9 @@ Luego de almacenar los productos, podrá visualizarlos en una tabla, donde cada 
 Para utilizar la base de datos, encontrá el archivo "script.sql" dentro de la carpeta WEBAPP-INF. Dicho script deberá iniciarlo
 utilizando el MySQL Workbench como así también necesitará el Xammp Control Panel para iniciar el servidor MySQL.
 
-Tecnologías utilizadas: Java 8, JavaEE, MySQL, JavaScript, BootStrap, Css
+También deberá estar instalada el TomCat en su IDE
 
+Tecnologías utilizadas: Java 8, JavaEE, TomCat, MySQL, JavaScript, BootStrap, Css
 
+Todo el projecto podrá visualizarlo en: localhost:8080/SmartServices
 
